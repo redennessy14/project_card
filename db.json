@@ -1,0 +1,32 @@
+{
+  "goods": [
+    {
+      "title": "sfaf",
+      "description": "sdad",
+      "image": "https://cdn.webshopapp.com/shops/296678/files/392909457/image.jpg",
+      "price": "23123",
+      "id": 4
+    },
+    {
+      "title": "dsadsa",
+      "description": "dsad",
+      "image": "https://cdn.webshopapp.com/shops/296678/files/392909457/image.jpg",
+      "price": "21312",
+      "id": 5
+    },
+    {
+      "title": "dsad",
+      "description": "dsad",
+      "image": "https://cdn.webshopapp.com/shops/296678/files/392909457/image.jpg",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "title": "dsa",
+      "description": "sda",
+      "image": "https://cdn.webshopapp.com/shops/296678/files/392909457/image.jpg",
+      "price": "123123",
+      "id": 8
+    }
+  ]
+}
